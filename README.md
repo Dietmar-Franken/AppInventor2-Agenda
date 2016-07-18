@@ -5,4 +5,7 @@ En el siguiente articulo monstrare el proceso para desarrollar una aplicacion co
 ##pantalla inicial
 
 ![alt tag](https://github.com/fercho0/AppInventor2-Agenda/blob/master/img/1.png)
-isdsd
+
+Declaracion de variables y evento del los button 
+ 
+![alt tag](https://github.com/fercho0/AppInventor2-Agenda/blob/master/img/2.png)
