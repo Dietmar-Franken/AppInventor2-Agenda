@@ -9,3 +9,13 @@ En el siguiente articulo monstrare el proceso para desarrollar una aplicacion co
 Declaracion de variables y evento del los button 
  
 ![alt tag](https://github.com/fercho0/AppInventor2-Agenda/blob/master/img/2.png)
+
+Metodo de inicializacion 
+
+![alt tag](https://github.com/fercho0/AppInventor2-Agenda/blob/master/img/3.png)
+
+Metodo del button Mostrar
+
+![alt tag](https://github.com/fercho0/AppInventor2-Agenda/blob/master/img/4.png)
+
+
